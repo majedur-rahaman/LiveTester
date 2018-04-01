@@ -8,5 +8,6 @@ namespace LiveTester.DataAccessLayer
 {
     public class Class1
     {
+
     }
 }
